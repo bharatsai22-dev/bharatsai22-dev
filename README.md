@@ -14,7 +14,9 @@ I’m passionate about building, learning, and sharing knowledge through code an
 
 ---
 ### 📊 GitHub Stats
+
 ![Bharat Sai's GitHub stats](https://github-readme-stats.vercel.app/api?username=bharatsai22-dev&show_icons=true&theme=radical)
+
 
 ### 🚀 Languages & Tools
 ![Java](https://img.shields.io/badge/Code-Java-orange)
