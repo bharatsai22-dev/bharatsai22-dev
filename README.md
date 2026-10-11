@@ -29,5 +29,5 @@ I’m passionate about building, learning, and sharing knowledge through code an
 ---
 
 ### 🌐 Connect with me
-- [LinkedIn]([https://www.linkedin.com/in/bharat-sai-k-8677b531a?utm_source=share_via&utm_content=profile&utm_medium=member_android](https://www.linkedin.com/in/bharat-sai-karre-8677b531a/?isSelfProfile=true))
+- [LinkedIn](https://www.linkedin.com/in/bharat-sai-karre-8677b531a/?isSelfProfile=true))
 - [Portfolio](https://your-portfolio-link.com)
